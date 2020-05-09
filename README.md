@@ -9,7 +9,7 @@
  <a href="#-projeto">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Créditos</a>
+  <a href="#aprendizados">Créditos</a>
 </p>
 
 <br>
@@ -45,7 +45,7 @@ Layout:
 ![Layout do projeto](https://github.com/ChristySchott/guess-a-number-react-native/blob/master/layout/layout3.png)
 
 
-### Aprendizados:
+## Aprendizados:
 
 - React Native Styling
 
